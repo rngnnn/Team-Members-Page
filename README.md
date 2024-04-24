@@ -23,7 +23,10 @@
 
 ## Expected Outcome
 
-![Project Snapshot](./teammembers.png)
+![Project Snapshot](./Team%20Members%20Page/Ekran%20Resmi%202024-04-24%2015.30.07.png)
+
+![Project Snapshot](./Team%20Members%20Page/Ekran%20Resmi%202024-04-24%2015.30.36.png)
+
 
 ## Objective
 
