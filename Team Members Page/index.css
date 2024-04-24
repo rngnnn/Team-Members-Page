@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+
+body{
+background-color: white;
+height: 100vh;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+.container{
+max-width: 1100px;
+width: 80%;
+margin: 0 auto;
+background-color: #f4f4f4;
+
+
+}
+
+
+.content{
+    width: auto;
+
+display: flex;
+justify-content: space-between;
+padding: 10px 50px;
+align-items: center;
+flex-wrap: wrap;
+
+}
+
+.headword{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 300px;
+    margin: 2rem 0 2rem 10rem;
+    justify-content: left;
+    flex-grow: 2;
+}
+.slogan{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 350px;
+    max-width: 600px;
+    margin: 0 2rem;
+    justify-content: left;
+    flex-grow: 2} 
+
+.fotos{
+
+    /* border: 1px red solid; */
+    max-width: 1100px;
+    width: 80%;
+    margin: 0 auto;
+    background-color: #f4f4f4;
+    padding: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.foto{
+
+width: 280px;
+height: 350px;
+position: relative;
+border-radius: 5px;
+display: flex;
+flex-wrap: wrap;
+
+}
+
+.img{
+    border-radius: 5px;
+    box-shadow: 2px 2px 20px black;
+
+
+}
+
+.isim{
+padding: 0.8rem;
+font-size: 1.2rem;
+
+
+}
+
+
+.titel{
+
+transform: rotate(90deg);
+font-size: 8px;
+position: absolute;
+width: 8rem;
+right: -15px;
+top: 72px;
+
+}
+
+.fo2{
+    margin-top: 70px;
+}
+
+
+.f05{
+    margin-top: 70px;
+
+
+}
+
+@media screen and(max-widht:1146px) {
+
+.fo5{
+    margin-top: 0;
+}
+.fo4{
+    margin-top: 70px;
+}
+    
+.fo6{
+
+    margin-top: 70px;
+}
+
+}
